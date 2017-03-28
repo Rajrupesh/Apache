@@ -80,7 +80,7 @@
 	<groupId>org.apache.tomcat.maven</groupId>
 	<artifactId>tomcat7-maven-plugin</artifactId>
 	<configuration>
-		<url>http://localhost:8082/manager/text</url>
+		<url>http://localhost:8082/manager</url>
 		<server>TomcatServer</server>
 		<path>/RAJRUPESH</path>
 	</configuration>
