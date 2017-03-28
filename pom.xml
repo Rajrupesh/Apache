@@ -82,7 +82,7 @@
 	<configuration>
 		<url>http://34.208.137.136:8082/manager/html</url>
 		<server>TomcatServer</server>
-		<path>/manager/html</path>
+		<path>/rajrupesh</path>
 	</configuration>
 </plugin>
 			<!--<plugin>
